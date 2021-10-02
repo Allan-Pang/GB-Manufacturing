@@ -1,1 +1,19 @@
 # GB-Manufacturing
+# Background and Problem
+# Background
+
+# GB Manufacturing is a producer of electronic components and testing equipment. The company is located in the New York City area with multiple plants. The corporation has over  10,000 full-time employees.
+
+# Approximately 200 employees are employed with the company's maintenance department, which is responsible for the maintenance of the building and grounds. Maintenance has  assigned a group of employees to provide maintenance for each building or plant. The employees assigned to each building or plant collectively possess the skills needed to provide proper upkeep. Such employees include carpenters, electricians, painters, welders, plumbers, and the like. The maintenance department also has a group of employees with special skills to assist with special projects that may arise.
+
+# Problem
+
+# In August of 2014, Bill Venkman and his management staff completed a 1-week retreat aimed at assessing the maintenance operations. Several initiatives resulted from this retreat. It was determined that the most important initiatives were those that primarily dealt with the equipment depot operation.
+
+# The equipment depot's function is to provide the equipment needed by maintenance employees to perform their job duties. Employees are provided with a toolbox containing commonly used and relatively inexpensive tools, such as hammers, screwdrivers, tape measures, and so on. Other tools and pieces of equipment that are needed to complete a job must be checked out through the equipment depot. When the job is completed, the employee must return the checked-out equipment.
+
+# Often, pieces of equipment become lost, stolen, or damaged and are therefore never checked back in and made available for others. The dollar amount of lost and stolen equipment has reached an alarming total. It has been estimated that more than $50,000 worth of tools are lost or stolen each year. Bill Venkman has decided that something must be done to get the losses under control. Thus, he is giving top priority to the development of a new, automated equipment checkout system that will track the check-in and check-out of equipment.
+
+# The materials warehouse is responsible for obtaining and storing supplies that are needed to complete jobs. For example, the materials warehouse makes sure to maintain a supply of screws, nails, plywood, drywall, and other materials. The materials warehouse operates in two locations. The main materials warehouse is a large building located approximately 1 mi away from the main campus. For convenience, a smaller materials warehouse is located near the central office and stores a small amount of the most commonly used materials. When workers need materials for a job assignment, they are supposed to check both warehouses to see if the goods are available. Unfortunately, the employees are often impatient and will simply check the availability of materials at the smaller, more conveniently located warehouse. If the goods are not available, they routinely choose to simply move on to the next job assignment rather than checking with the main warehouse. Though the main warehouse will deliver the materials, employees prefer not to have to wait for delivery. To complicate things further, even though the materials may be available at the larger warehouse, employees frequently request that the smaller warehouse order needed materials that are not in stock there. The net result is excessive inventory and inventory carrying costs!
+
+# Although management is not sure of the total dollar amount that can be attributed to carrying excessive inventory, they are in agreement that it is likely very substantial; therefore, a new and improved warehousing system is another top priority for the maintenance department.
